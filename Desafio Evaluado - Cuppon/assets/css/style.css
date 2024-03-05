@@ -1,0 +1,66 @@
+*{
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-family: "Roboto", sans-serif;
+}
+.background-navbar{
+  background-color: #28A745;
+}
+.navbar-brand img{
+  width: 86px;
+  height: 25px;
+}
+.servicio{
+  margin: 0;
+  padding: 0;
+}
+.card-title {
+  font-size: 20px;
+  font-weight: 300;
+  color: #212529;
+}
+.servicio {
+  color: #707070;
+  font-size: 16px;
+  font-weight: lighter;
+}
+.card-subtitle{
+  color: #707070;
+  font-weight: lighter;
+  font-size: 13px;
+}
+.valor-sd, .valor-cd {
+  display: inline;
+}
+.valor-sd {
+  color: #707070;
+  font: 16px;
+  font-weight: 300;
+}
+.valor-cd {
+  color: #28A745;
+  font-size: 20px;
+  font-weight: 500;
+}
+.colun{
+  margin-top: 40px;
+  margin-bottom: 20px;
+  background-color: #28A745;
+  
+}
+.form-text
+{
+  color: white;
+  font-weight: 500;
+  font-size: 21pt;
+
+}
+.footer-img
+{
+  width: 82pt;
+  height: 24pt;
+}
+.marca {
+  color:#707070;
+}

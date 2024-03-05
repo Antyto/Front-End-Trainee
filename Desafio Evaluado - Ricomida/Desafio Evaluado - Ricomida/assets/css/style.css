@@ -1,0 +1,59 @@
+* {
+    padding: 0px;
+    border: 0px;
+    margin: 0px;
+}
+.background-navbar{
+    background-color: #373A3C;
+}
+.marca {
+    font-family: "Lobster";
+    font-size: 37px;
+    color: #FFFFFF;
+}
+.principal {
+    width: 100%;
+}
+.encabezado {
+    font-family: "Cabin";
+    font-size: 2em;
+    font-weight: bolder;
+    color: #373A3C;
+}
+.informacion {
+    font-family: "Cabin";
+    font-size: 1.3em;
+    font-weight: bolder;
+    color: #373A3C;
+}
+.recipe {
+    color:#373A3C;
+    font-family: "Cabin";
+}
+.titulo {
+    font-weight: 800;
+}
+.anuncio {
+    font-family: "Cabin";
+}
+.marca-2 {
+    font-family: "Lobster";
+    color: #FFFFFF;
+    font-weight: 100;
+    font-size: 1em;
+}
+.suscripcion {
+    font-family: "Cabin";
+    color: #FFFFFF;
+}
+.news {
+    font-size: 2em;
+    font-weight: bold;
+}
+.news-2 {
+    font-size: light;
+    font-size: 1.5em;
+}
+.footer {
+    background-color: #373A3C;
+}
