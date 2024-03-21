@@ -1,0 +1,178 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-family: "Poppins";
+}
+
+.s--date {
+    font-weight: 400;
+}
+
+.s--title {
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+.s--dl {
+    border-radius: 77px;
+}
+
+.s--logdl {
+    border-radius: 10px;
+}
+
+.s--image {
+    border-radius: 20px;
+}
+
+.s--text-footer {
+    font-weight: 500;
+    margin-left: 20px;
+}
+
+.logo {
+    margin: 38px 110px;
+    align-items: center;
+    display: inline-flex;
+}
+
+.logo__image {
+    width: 55px;
+    text-align: center;
+}
+
+.logo__title {
+    font-size: 24px;
+}
+
+.section {
+    margin: 38px 110px;
+    width: 650px;
+    box-sizing: border-box;
+    float: inline-start;
+}
+
+.section__card-img-top-2 {
+    width: 298px;
+    height: 200px;
+}
+
+.section__card-title {
+    font-size: 18px;
+    margin-top: 10px;
+}
+
+.section__card-img-top {
+    width: 603px;
+    height: 314px;
+}
+
+.section__card-text {
+    font-size: 24px;
+}
+
+.section__card-logo {
+    width: 60px;
+}
+
+.section__card-ed {
+    font-size: 24px;
+}
+
+.section__2 {
+    margin-top: 40px;
+    float: left;
+    width: 500px;
+}
+
+.section__2-card-body-2 {
+    height: 90px;
+    align-items: center;
+    display: inline-flex;
+    text-align: end;
+}
+
+.s--adjusts {
+    margin-top: 90px;
+    width: 600px;
+}
+
+.s--secadj {
+    width: 730px;
+}
+
+.section__2-img-fluid {
+    width: 189px;
+    height: 145px;
+}
+
+.section__2-card-title,
+.section__2-card-ed {
+    margin-top: 10px;
+    font-size: 16px;
+}
+
+.section__2-card-text {
+    font-size: 20px;
+}
+
+.section__2-card-logo {
+    width: 40px;
+}
+
+.section__3-card-img-top {
+    width: 298px;
+    height: 200px;
+}
+
+.section__2-img-fluid-2 {
+    width: 85px;
+    height: 74px;
+}
+
+.section__2-card-text-2 {
+    width: 230px;
+    font-size: 32px;
+    font-weight: 700;
+    color: #FFF;
+    margin-right: 30px;
+}
+
+.cat--html {
+    background-color: #E93E30;
+}
+
+.cat--js {
+    background-color: #F7E018;
+}
+
+.cat--css {
+    background-color: #299ED5;
+}
+
+.cat--react {
+    background-color: #292C33;
+}
+
+.cat--vue {
+    background-color: #67C770;
+}
+
+.cat--bs {
+    background-color: #563D7C;
+}
+
+.section__2-link {
+    font-size: 20px;
+    display: flex;
+    text-decoration: none;
+    color: #000;
+}
+
+.logo__text {
+    width: 283px;
+    font-size: 20px;
+    font-weight: 400;
+    margin-left: 720px;
+}
